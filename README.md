@@ -1,1 +1,1 @@
-# hello_rescue is a started for the resuce me app 
+# hello_rescue is a started to follow up with the rescue me app 
